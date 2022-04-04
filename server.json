@@ -1,0 +1,33 @@
+{
+  "products": [
+  {
+  "id": 1,
+  "title": "nice coat",
+  "price": 290.9
+  },
+  {
+  "id": 2,
+  "title": "cheap glasses",
+  "price": 20.9
+  },
+  {
+  "id": 3,
+  "title": "hyped sneaker ",
+  "price": 500
+  }
+  ],
+  "stock": [
+  {
+  "id": 1,
+  "quantity": 3
+  },
+  {
+  "id": 2,
+  "quantity": 0
+  },
+  {
+  "id": 3,
+  "quantity": 1
+  }
+  ]
+  }
